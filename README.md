@@ -1,8 +1,7 @@
 # DMVNJ_Bot
 
 
-
-[! [Watch the video]](https://www.youtube.com/watch?v=aNPV4Jd5iQc&ab_channel=qinyuanjustin)
+[![Watch the video](https://img.youtube.com/vi/aNPV4Jd5iQc/maxresdefault.jpg)](https://www.youtube.com/watch?v=aNPV4Jd5iQc&ab_channel=qinyuanjustin)
 
 **Part 1: Monitoring the website**
 
